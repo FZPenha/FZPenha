@@ -13,6 +13,8 @@ I seek solutions to problems in the most diverse areas especially engineering, b
 
 ### Some interesting stats on this site about me:
 
+<div></div>
+
 [![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=FZPenha&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FZPenha&layout=compact&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,9 +22,9 @@ I seek solutions to problems in the most diverse areas especially engineering, b
 ### Contact me through:
 
 <a href="https://www.linkedin.com/in/fernando-zagatto-penha/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
-/////////////////
+
 FZPenha@gmail.com
-/////////////////
+
 +55 (16) 98181-3323
   
  ### Acknowledgments:
