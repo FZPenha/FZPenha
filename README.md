@@ -30,8 +30,6 @@ or
 <a href="https://www.linkedin.com/in/fernando-zagatto-penha/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
   
  ### Acknowledgments:
-Special thanks to Victor Vinci Fantucci, my good friend that helped me create this.
-
-[Victor Fantucci](https://github.com/VictorFantucci)
+Special thanks to [Victor Vinci Fantucci](https://github.com/VictorFantucci), my good friend that helped me create this.
 
 Also very grateful that [Anurag](https://github.com/anuraghazra) created the Github Readme Stats (see the [repository](https://github.com/anuraghazra/github-readme-stats))
