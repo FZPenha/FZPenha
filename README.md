@@ -4,7 +4,7 @@
 
 Graduate in Production Engineering at the College of Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
 
-President at IEEE Computer Society - Guaratinguetá.
+President at IEEE Computer Society - Guaratinguetá and Intern at Peers Consulting.
 
 I believe that trust, strength, responsibility, transparency and integrity are essential to human development, being it personal or team-oriented.
 For me, it's all about the challenge. I am fascinated by challenges/problems, leadership and also decision making.
