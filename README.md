@@ -4,12 +4,12 @@
 
 Graduate in Production Engineering at the College of Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
 
-Vice-President at IEEE - Computer Society - Guaratinguetá.
+President at IEEE Computer Society - Guaratinguetá.
 
-I believe that trust, strength, responsibility, transparency and integrity are essential to human development, personal or team-oriented.
-For me, it's all about the challenge. I am fascinated by difficult problems, leadership and also decision making.
+I believe that trust, strength, responsibility, transparency and integrity are essential to human development, being it personal or team-oriented.
+For me, it's all about the challenge. I am fascinated by challenges/problems, leadership and also decision making.
 
-I seek solutions to problems in the most diverse areas especially engineering, business and software development. Through my experiments/projects (that you can see most here at [Github](https://github.com/FZPenha)) I am building an arsenal of knowledge and analytical techniques & abilities to become a reference in Web Development.
+I seek solutions to problems in the most diverse areas, especially engineering, business and software development. Through my experiments/projects (that you can see most here at [Github](https://github.com/FZPenha)) I am building an arsenal of knowledge and analytical techniques & abilities so I can be able to help as many people as possible!
 
 ### Some interesting stats on this site about me:
 
