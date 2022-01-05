@@ -4,12 +4,13 @@
 
 Graduate in Production Engineering at the College of Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
 
-President at IEEE Computer Society - Guaratinguetá and Intern at Peers Consulting.
+Former President and Vice-President at IEEE Computer Society - Guaratinguetá.
+Currently an Intern at Peers Consulting.
 
 I believe that trust, strength, responsibility, transparency and integrity are essential to human development, being it personal or team-oriented.
-For me, it's all about the challenge. I am fascinated by challenges/problems, leadership and also decision making.
+For me it's all about the challenge, so being that my biggest motivations are solving problems and helping people.
 
-I seek solutions to problems in the most diverse areas, especially engineering, business and software development. Through my experiments/projects (that you can see most here at [Github](https://github.com/FZPenha)) I am building an arsenal of knowledge and analytical techniques & abilities so I can be able to help as many people as possible!
+I seek solutions to problems in the most diverse areas, especially engineering, business and software development. Through my experiments/projects (that you can see most here at [Github](https://github.com/FZPenha)) I am building an arsenal of knowledge and analytical techniques & abilities so that I can be able to help as many people as possible!
 
 ### Some interesting stats on this site about me:
 
