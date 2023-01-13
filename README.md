@@ -5,7 +5,7 @@
 Graduate in Production Engineering at the College of Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
 
 Former President and Vice-President at IEEE Computer Society - Guaratinguetá.
-Currently an Intern at Peers Consulting.
+Intern in Consulting in 2021. Wealth Management Intern since jan/2022.
 
 I believe that trust, strength, responsibility, transparency and integrity are essential to human development, being it personal or team-oriented.
 For me it's all about the challenge, so being that my biggest motivations are solving problems and helping people.
