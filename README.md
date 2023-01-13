@@ -16,7 +16,7 @@ I seek solutions to problems in the most diverse areas, especially engineering, 
 
 <div></div>
 
-[![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=FZPenha&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=FZPenha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FZPenha&layout=compact&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
