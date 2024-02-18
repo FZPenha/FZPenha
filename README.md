@@ -29,6 +29,4 @@ FZPenha@gmail.com
 +55 (16) 98181-3323
   
  ### Acknowledgments:
-Special thanks to [Victor Vinci Fantucci](https://github.com/VictorFantucci), my good friend that helped me create this.
-
-Also very grateful that [Anurag](https://github.com/anuraghazra) created the Github Readme Stats (see the [repository](https://github.com/anuraghazra/github-readme-stats))
+Very grateful that [Anurag](https://github.com/anuraghazra) created the Github Readme Stats (see the [repository](https://github.com/anuraghazra/github-readme-stats))
